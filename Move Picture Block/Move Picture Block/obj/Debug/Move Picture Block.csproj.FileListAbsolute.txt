@@ -1,0 +1,10 @@
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\Visual Studio Projects\Move Picture Block\Move Picture Block\obj\Debug\Move Picture Block.csprojAssemblyReference.cache
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\Visual Studio Projects\Move Picture Block\Move Picture Block\obj\Debug\Move_Picture_Block.Form1.resources
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\Visual Studio Projects\Move Picture Block\Move Picture Block\obj\Debug\Move_Picture_Block.Properties.Resources.resources
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\Visual Studio Projects\Move Picture Block\Move Picture Block\obj\Debug\Move Picture Block.csproj.GenerateResource.cache
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\Visual Studio Projects\Move Picture Block\Move Picture Block\obj\Debug\Move Picture Block.csproj.CoreCompileInputs.cache
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\Visual Studio Projects\Move Picture Block\Move Picture Block\bin\Debug\Move Picture Block.exe.config
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\Visual Studio Projects\Move Picture Block\Move Picture Block\bin\Debug\Move Picture Block.exe
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\Visual Studio Projects\Move Picture Block\Move Picture Block\bin\Debug\Move Picture Block.pdb
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\Visual Studio Projects\Move Picture Block\Move Picture Block\obj\Debug\Move Picture Block.exe
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\Visual Studio Projects\Move Picture Block\Move Picture Block\obj\Debug\Move Picture Block.pdb
